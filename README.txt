@@ -1,6 +1,6 @@
 Este proceso calcula si frente a cambios en precios de acciones
 de un portafolio, se necesita comprar o vender acciones
-tal de mantener una distribución elegida. Por simpplicidad,
+tal de mantener una distribución elegida. Por simplicidad,
 se trabaja con un precio al azar para cada acción entre un
 rango de 1 y 100
 
