@@ -63,11 +63,4 @@ while contador < iterations:
             go_long = d_quantity[stock][contador] - d_quantity[stock][contador-1]
             print(f'Comprar {go_long} {stock}')
 
-
-
-
-
-
-
-
-print('a')
+print('Finish!!')
